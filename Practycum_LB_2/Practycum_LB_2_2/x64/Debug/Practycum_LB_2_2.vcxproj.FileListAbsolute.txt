@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Practycum_LB_2\Practycum_LB_2_2\x64\Debug\Practycum_LB_2_2.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Practycum_LB_2\Practycum_LB_2_2\x64\Debug\PractycumLB22.MyForm.resources
+C:\Users\User\source\repos\Practycum_LB_2\Practycum_LB_2_2\x64\Debug\Practycum_LB_2_2.vcxproj.GenerateResource.cache
